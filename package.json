@@ -1,0 +1,19 @@
+{
+  "name": "netflexapp",
+  "version": "1.0.0",
+  "description": "node app ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopheHALLER/chrisheroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristopheHALLER/chrisheroku/issues"
+  },
+  "homepage": "https://github.com/ChristopheHALLER/chrisheroku#readme"
+}
