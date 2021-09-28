@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/ChristopheHALLER/chrisheroku/issues"
   },
-  "homepage": "https://github.com/ChristopheHALLER/chrisheroku#readme"
+  "homepage": "https://github.com/ChristopheHALLER/chrisheroku#readme",
+  "dependencies": {}
 }
